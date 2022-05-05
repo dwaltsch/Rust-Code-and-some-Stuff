@@ -15,5 +15,4 @@ loop {
     };
     println!("That is {} degrees of freedom", (guess - 30)/2);
 }
-
 }
